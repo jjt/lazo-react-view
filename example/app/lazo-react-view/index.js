@@ -29,9 +29,9 @@ define(['lazoView'], function (LazoView) {
             return {
                 view: this,
                 // extended backbone models
-                models: this.ctl.ctx.models,
+                model: this.ctl.ctx.models,
                 // extended backbone collections
-                collections: this.ctl.ctx.collections,
+                collection: this.ctl.ctx.collections,
                 // constants:
                 // https://github.com/lazojs/lazo/wiki/Assets
                 assets: this.ctl.ctx.assets,

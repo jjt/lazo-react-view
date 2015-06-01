@@ -6,8 +6,8 @@ define(['lazoSyncher'], function (LazoSyncher) {
 
         fetch: function (options) {
             return options.success([
-                { fname: 'Rick', lname: 'Sanchez' },
-                { fname: 'Jerry', lname: 'Smith' }
+                { fname: 'Rick', lname: 'Sanchez', id: 0 },
+                { fname: 'Jerry', lname: 'Smith', id: 1 }
             ]);
         }
 

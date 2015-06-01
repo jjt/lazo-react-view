@@ -7,7 +7,8 @@
             "paths": {
                 "react": "app/vendor/react/react-with-addons",
                 "JSXTransformer": "app/vendor/jsx-requirejs-plugin/js/JSXTransformer",
-                "jsx": "app/vendor/jsx-requirejs-plugin/js/jsx"
+                "jsx": "app/vendor/jsx-requirejs-plugin/js/jsx",
+                "backbone-react-component": "app/vendor/backbone-react-component/lib/component"
             }
         }
     }

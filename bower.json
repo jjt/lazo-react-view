@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "react": "*",
-    "jsx-requirejs-plugin": "*"
+    "jsx-requirejs-plugin": "*",
+    "backbone-react-component": "~0.8.1"
   }
 }
